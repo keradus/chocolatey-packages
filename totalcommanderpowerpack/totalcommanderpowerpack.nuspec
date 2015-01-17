@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>totalcommanderpowerpack</id>
+    <title>TotalCommander PowerPack</title>
+    <version>2.0</version>
+    <authors>Christian Ghisler, Adam Bukowiński</authors>
+    <owners>keradus</owners>
+    <summary>TotalCommander PowerPack</summary>
+    <description>Total Commander is a file manager replacement for Windows. Features: Drag/Drop from and to explorer/desktop. Packer shell for ZIP/ARJ/LHA/RAR/UC2/TAR/GZ/CAB/ACE. Command line, full text search also in packed files, button bar. FTP client, access to Network Neighborhood, Uuencode/Decode, compare, synchronize dirs. Changes: Unicode support, CHM help, names up to 1022 chars, breadcrumb bar, password safe, quick filter.
+
+PowerPack edition is extended version that contains great deal of plugins.
+Please see project's site for more details and list of plugins.</description>
+    <projectUrl>http://totalcmd.pl/powerpack</projectUrl>
+    <tags></tags>
+    <copyright></copyright>
+    <licenseUrl>http://www.ghisler.com/faq.htm</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://raw.githubusercontent.com/keradus/chocolatey-packages/master/totalcommanderpowerpack/icon.ico</iconUrl>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
