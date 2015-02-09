@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>gitter</id>
+    <title>Gitter</title>
+    <version>2.2.2</version>
+    <authors>Troupe Technology Ltd.</authors>
+    <owners>keradus</owners>
+    <summary>Gitter</summary>
+    <description>Gitter is a GitHub-based chat tool for developers.</description>
+    <projectUrl>https://gitter.im</projectUrl>
+    <tags>im messenger chat</tags>
+    <copyright></copyright>
+    <licenseUrl>https://gitter.zendesk.com/hc/en-us/articles/200944641-Terms-of-Service</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://raw.githubusercontent.com/keradus/chocolatey-packages/master/gitter/icon.png</iconUrl>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
