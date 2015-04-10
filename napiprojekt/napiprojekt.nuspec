@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>napiprojekt</id>
+    <title>NapiProjekt</title>
+    <version>2.2.0.2399</version>
+    <authors>NapiProjekt</authors>
+    <owners>keradus</owners>
+    <summary>NapiProjekt</summary>
+    <description>Polish tool that helps to download subtitles for movies.</description>
+    <projectUrl>http://www.napiprojekt.pl</projectUrl>
+    <tags>subtitle</tags>
+    <copyright></copyright>
+    <licenseUrl>http://www.napiprojekt.pl/o-programie</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://raw.githubusercontent.com/keradus/chocolatey-packages/master/napiprojekt/icon.png</iconUrl>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
