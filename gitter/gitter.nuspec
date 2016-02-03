@@ -3,12 +3,12 @@
   <metadata>
     <id>gitter</id>
     <title>Gitter</title>
-    <version>2.2.2</version>
+    <version>2.4.0</version>
     <authors>Troupe Technology Ltd.</authors>
     <owners>keradus</owners>
     <summary>Gitter</summary>
     <description>Gitter is a GitHub-based chat tool for developers.</description>
-    <projectUrl>https://gitter.im</projectUrl>
+    <projectUrl>https://gitter.im/apps</projectUrl>
     <tags>im messenger chat</tags>
     <copyright></copyright>
     <licenseUrl>https://gitter.zendesk.com/hc/en-us/articles/200944641-Terms-of-Service</licenseUrl>
